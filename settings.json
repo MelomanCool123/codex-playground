@@ -1,0 +1,28 @@
+{
+  "overlay_alpha": 0.8,
+  "overlay_refresh": 1.0,
+  "bbox": null,
+  "ocr_enabled": true,
+  "overlays_enabled": true,
+  "overlay_geometry": "",
+  "ui_config": {},
+  "page_refresh": {
+    "min_delay": 0.2,
+    "max_delay": 0.33,
+    "search_field_x": 0.695,
+    "search_field_y": 0.142
+  },
+  "payday_notifications_enabled": true,
+  "auto_scan_interval": 2000,
+  "ocr_settings": {
+    "contrast_factor": 1.5,
+    "sharpness_factor": 2.0,
+    "min_confidence": 30,
+    "min_price": 1,
+    "max_price": 1000000,
+    "min_match_score": 70,
+    "image_scale_factor": 1.2
+  },
+  "mobile_host": "0.0.0.0",
+  "mobile_port": 5000
+}

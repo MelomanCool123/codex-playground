@@ -1,0 +1,19 @@
+# Основные зависимости для GTA5 RP Calculator
+tkinter  # Встроен в Python
+Pillow>=9.0.0
+qrcode[pil]>=7.3.1
+
+# Опциональные зависимости для OCR
+pytesseract>=0.3.10
+pyautogui>=0.9.54
+keyboard>=0.13.5
+pygetwindow>=0.0.9
+
+# Зависимости для Telegram бота
+python-telegram-bot>=20.0
+
+# Зависимости для веб-интерфейса
+Flask>=2.0.0
+
+# Дополнительные утилиты
+requests>=2.25.0
